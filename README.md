@@ -38,4 +38,4 @@ $ cd DeepLearning-PadhAI/
 * [PyTorch 0.4.0+](http://pytorch.org/)
 
 ## Credits
-Thanks to [NiranjanKumar](https://github.com/Niranjankumar-c/DeepLearning-PadhAI) for making the initial repo!
+Thanks to [NiranjanKumar](https://github.com/Niranjankumar-c/DeepLearning-PadhAI) for compiling the Padhai-Deeplearning  course NoteBooks into a repo!
